@@ -21,3 +21,6 @@
     flex-flow: row-reverse wrap;
     gap: .8rem;
 }
+ul li{
+    list-style: none;
+}
